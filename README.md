@@ -36,7 +36,7 @@ Tarifa
 Puerto de embarque
 Información familiar
 
-##Variable objetivo:
+## Variable objetivo:
 
 Survived
 
